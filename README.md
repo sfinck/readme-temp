@@ -20,7 +20,7 @@ Using the writeToFile method in the npm fs package the user input is used to wri
 * [License](#license)
 
 ## Installation 
-1. [JavaScript] 
+1. [JavaScript](https://www.javascript.com/) 
 2. [Node](https://nodejs.org/en/)
 3. [Inquirer package](https://www.npmjs.com/package/inquirer)
 4. [fs](https://www.npmjs.com/package/fs)
@@ -32,6 +32,16 @@ The application will be invoked by using the following command:
 ```bash
 node index.js
 ```
+
+Open index.js file in intergrated terminal and fill in prompts accordingly
+![alt text](./assets/integrated-terminal.png)
+
+When finished with prompts the terminal will display 'Success' and a new README.md file is created 
+![alt text](./assets/new-readme.png)
+
+If using VS code, open README.md file and click on the double window with the magnifying glass to preview the file. Make changes accordingly. 
+![alt text](assets/readme-preview.png)
+
 ### User Story: 
 ```md
 AS A developer
